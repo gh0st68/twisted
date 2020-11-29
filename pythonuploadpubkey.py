@@ -1,4 +1,4 @@
-#This will upload your public ssh key file into /home/name/.ssh/authrorized_key ahd set chmod 645 to authorized_keys
+#This will upload your public ssh key file into /home/name/.ssh/authrorized_key and set chmod 645 to authorized_keys
 #made by gh0st
 #irc.twistednet.org #twisted
 
